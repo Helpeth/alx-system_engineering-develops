@@ -1,2 +1,2 @@
-chmod 775 vincent
-chgrp 775 staff
+#!/bin/bash
+chmod 775 vincent 
