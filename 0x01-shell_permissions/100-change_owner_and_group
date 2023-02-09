@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo 775 vincent staff 
+sudo -i vincent/staff 
