@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 775 vincent 
+sudo 775 vincent staff 
